@@ -1,6 +1,8 @@
 # Challenging puzzle game: Turn off all the lights!
 https://switch-off.silver-play.website
 
+gameplay - https://youtu.be/6q3afMM4v5Y
+
 Dive into an immersive challenge with our intriguing puzzle game – 'Turn Off All the Lights.' The objective is clear: extinguish all the lights on the grid, but the path to success is anything but straightforward. Engage your strategic thinking as you navigate through increasingly complex levels.
 
 Every move matters in this brain-teasing adventure. The minimalist design enhances focus, allowing you to concentrate on the puzzle at hand. With escalating difficulty, the game evolves from a casual brain teaser to a full-blown mental workout, appealing to puzzle enthusiasts seeking a profound challenge.
